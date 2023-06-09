@@ -1,3 +1,6 @@
+## 预先准备
+https://tauri.app/zh-cn/v1/guides/getting-started/prerequisites
+
 ## 开发计划
 - [x] 使用 tauri 打包桌面应用
 - [] 本地接通 chatGPT
